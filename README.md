@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikemorana
 - 👀 I’m interested in all sorts of things - I'm a serial hobbyist.
-- 🌱 I’m currently learning Java and Minecraft modding simulataneously.
+- 🌱 I’m currently learning Java and Minecraft modding simulataneously. I learn faster when I'm learning something I enjoy.
 - 💞️ I’m looking to collaborate on any newbie collaborative. Mentor me! Please?
 - 📫 How to reach me Discord: mik3ISblind#6556
 
